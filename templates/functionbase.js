@@ -1,11 +1,8 @@
 import React from 'react'
 
-const name = (props) => {
-	return(
-		<div>
-		
-		</div>
-	)
-};
+const name = (props) => (
+	<div>
+	</div>
+)
 
 export default name
